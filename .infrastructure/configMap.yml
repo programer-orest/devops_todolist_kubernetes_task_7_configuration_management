@@ -4,4 +4,4 @@ metadata:
   name: config-app
   namespace: todoapp
 data: 
-    PYTHONUNBUFFERED: "1"
+  PYTHONUNBUFFERED: "1"
